@@ -88,7 +88,7 @@
 	<PackageReference Update="SkiaSharp.HarfBuzz" Version="2.88.1-preview.79" />
 	<PackageReference Update="GtkSharp" Version="3.24.24.34" />
 	<PackageReference Update="System.Json" Version="4.7.1" />
-	<PackageReference Update="FluentAssertions" Version="5.10.3" />
+	<PackageReference Update="FluentAssertions" Version="6.7.0" />
 	<PackageReference Update="Microsoft.Extensions.Logging.Console" Version="5.0.0" />
 	<PackageReference Update="Microsoft.Extensions.Logging.Debug" Version="5.0.0" />
 	<PackageReference Update="Microsoft.Extensions.Logging.Filter" Version="1.1.2" />
