@@ -1,7 +1,7 @@
 ﻿#nullable enable
 
 using System;
-using Windows.UI.Xaml.Media;
+using Microsoft.UI.Xaml.Media;
 
 namespace Uno.UI.Helpers;
 

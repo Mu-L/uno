@@ -34,7 +34,7 @@ namespace Uno.UI.Runtime.Skia.Wpf
 			}
 			catch (Exception e)
 			{
-				Windows.UI.Xaml.Application.Current.RaiseRecoverableUnhandledException(e);
+				Microsoft.UI.Xaml.Application.Current.RaiseRecoverableUnhandledException(e);
 			}
 		}
 
@@ -62,7 +62,7 @@ namespace Uno.UI.Runtime.Skia.Wpf
 			}
 			catch (Exception e)
 			{
-				Windows.UI.Xaml.Application.Current.RaiseRecoverableUnhandledException(e);
+				Microsoft.UI.Xaml.Application.Current.RaiseRecoverableUnhandledException(e);
 			}
 		}
 
